@@ -5,7 +5,7 @@
 # Getting Started
 ```
 git clone https://github.com/Red91K/2D-Raytracer
-cd Sorting-Algorithm-Visualizer
+cd 2D-Raytracer
 python3 -m http.server
 ```
 - Go to `localhost:8000` on you web browser
